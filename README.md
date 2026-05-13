@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Ryan and I am a software engineer. 
+I'm Ryan and I am a software engineer. I like to learn about all sorts of cool technology. Stay tuned for updates!
 
-A lot of good things cooking! Stay tuned!
-
-![Justin Tucker Victory Pose](https://c.tenor.com/F9FXZ3taZhgAAAAS/justin-tucker-baltimore-ravens.gif)
+![under construction](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRmd3Z5Z25pYm94YTlsMnJwOWM3em44eG0yajNlMmQ5ano2MWV4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bpHPEnpyRNMISEtSlJ/giphy.gif))
 <!--
 **rjwilsondev/rjwilsondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
